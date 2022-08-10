@@ -1,0 +1,10 @@
+9
+ababababab
+babababbaba
+bbbaababbbabab
+bababababbbab
+abbabbabbabb
+abbbbabbabbbabbb
+aaaabbbba
+abbbababababab
+abbbbbabbbbabbb

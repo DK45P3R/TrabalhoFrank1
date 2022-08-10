@@ -1,0 +1,1 @@
+para adicionar um arquivo basta por ele no diretorio e adicionar o nome dele no metodo da linha 28 do codigo (Arquivos)
